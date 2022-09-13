@@ -7,7 +7,7 @@
  *
  * Return: returns outputs
  */
-int int_abs(int n)
+int _abs(int n)
 {
 	if (n > 0)
 	{
