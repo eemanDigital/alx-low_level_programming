@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *int_abs - entry point
+ *_abs - entry point
  * Description: Print absolute value of integer
  *
  * @n: check function input
