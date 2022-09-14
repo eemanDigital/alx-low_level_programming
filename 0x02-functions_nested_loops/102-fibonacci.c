@@ -9,12 +9,12 @@
 int main(void)
 {
 	int x = 0;
-	int y = 1, k = 2;
+	long y = 1, k = 2;
 
 	while (x < 50)
 	{
 	if (x == 0)
-	printf("%1d", y);
+	printf("%ld", y);
 	else if (x == 1)
 	printf(", %ld", k);
 	else
