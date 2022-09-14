@@ -23,7 +23,7 @@ int main(void)
 	y = k - y;
 	printf(", %1d", k);
 	}
-	++x
+	++x;
 	}
 	printf("\n");
 	return (0);
