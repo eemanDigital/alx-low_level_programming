@@ -16,12 +16,12 @@ int main(void)
 	if (x == 0)
 	printf("%1d", y);
 	else if (x == 1)
-	printf(", %1d", k);
+	printf(", %ld", k);
 	else
 	{
 	k += y;
 	y = k - y;
-	printf(", %1d", k);
+	printf(", %ld", k);
 	}
 	++x;
 	}
