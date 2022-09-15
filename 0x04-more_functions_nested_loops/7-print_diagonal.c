@@ -2,7 +2,7 @@
 /**
  * print_diagonal - entry function to print line
  * @n: var
- * Return:0
+ * Return: 0
  */
 void print_diagonal(int n)
 {
