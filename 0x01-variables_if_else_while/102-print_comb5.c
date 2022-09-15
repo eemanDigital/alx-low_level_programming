@@ -9,10 +9,7 @@
  */
 int main(void)
 {
-	int c;
-	int i;
-	int a;
-	int s;
+	int c, i, a, s;
 
 	for (c = 48; c <= 57; c++)
 	{
