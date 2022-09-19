@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
  * print_rev - function to prints a string, in reverse.
  * @s: pointer to var
