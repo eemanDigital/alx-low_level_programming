@@ -13,8 +13,8 @@ int main(void)
 	srand(time(NULL));
 	while (s <= 26450)
 	{
-	c = rand() % 128;
-	sum += ch;
+	ch = rand() % 128;
+	s += ch;
 	putchar(ch);
 	}
 	putchar(2772 - s);
