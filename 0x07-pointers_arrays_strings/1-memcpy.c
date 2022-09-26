@@ -3,7 +3,7 @@
  * _memcpy - function that copies memory area
  *
  * @dest: destination variable params
- * @src: source 
+ * @src: source
  * @n: n bytes of @src
  *
  * Return:0
