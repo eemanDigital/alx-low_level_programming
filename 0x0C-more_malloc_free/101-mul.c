@@ -1,8 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
-
-/**~
+/**
  * _memset - function that fills memory with a constant byte
  *
  * @s: input pointer that represents memory block
